@@ -1,7 +1,12 @@
-EXP-04: Attach Rifle with character mesh and bullet spawn from Rifle.
-.Aim:
+# EXP-04: Attach Rifle with character mesh and bullet spawn from Rifle.
+
+## Date : 9/4/25
+
+## Aim:
+
 To Attach Rifle with character mesh and implementation bullet spawn from Rifle
-Algorithm:
+
+## Algorithm:
 1: Import the character mesh and rifle model into your game engine or development
 environment. Ensure that both assets are properly rigged and prepared for animation.
 2: Create an attachment point on the character's hand or shoulder where the rifle will be
@@ -46,9 +51,24 @@ widget accordingly.
 8: Optional: Add visual and audio feedback: To enhance the player's experience, you can
 consider adding visual and audio feedback when a bullet hits an object. For example, you might
 display a particle effect or play a sound effect to signify a successful hit.
-Output:
 
-//paste your output screenshot here
+## Output:
+
+![image](https://github.com/user-attachments/assets/0bc5bcde-d5e1-40d8-877e-ad85df39a8b2)
+
+![image](https://github.com/user-attachments/assets/1d1c5e5f-0a20-48b3-8c19-652442d4ece8)
+
+![image](https://github.com/user-attachments/assets/db94d309-3406-431b-9fa4-0fe41a842555)
+
+![image](https://github.com/user-attachments/assets/cc2f490a-dcaf-4fd5-a141-a53b07904678)
+
+![image](https://github.com/user-attachments/assets/22910e11-ce00-4955-a97a-2f7ec126143c)
+
+![image](https://github.com/user-attachments/assets/9fbaafce-ee89-4ecf-b868-aa6a08e3f512)
+
+![image](https://github.com/user-attachments/assets/3d16554c-f81e-4507-aa1e-818670a1a294)
+
+![image](https://github.com/user-attachments/assets/6fb9b6bd-0efa-49ca-9f8b-f9f10c704d78)
 
 
 Result:
